@@ -14,5 +14,9 @@ public class MethodDemo2 {
 	{
 		System.out.println("Nothing");
 	}
+	public void FINALTEST()
+	{
+		System.out.println("FINALTEST");
+	}
 
 }
