@@ -6,5 +6,9 @@ public class MethodDemo2 {
 	{
 		System.out.println("Accessing method defined outside of the class");
 	}
+	public void nothing()
+	{
+		System.out.println("Nothing");
+	}
 
 }
