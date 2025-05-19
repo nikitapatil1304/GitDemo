@@ -10,5 +10,9 @@ public class MethodDemo2 {
 	{
 		System.out.println("Nothing");
 	}
+	public void nothing1()
+	{
+		System.out.println("Nothing");
+	}
 
 }

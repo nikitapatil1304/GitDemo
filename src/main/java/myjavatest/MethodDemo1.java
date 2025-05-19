@@ -34,4 +34,8 @@ public class MethodDemo1 {
 		System.out.println("Function with String");
 		return "User Nikita";
 	}
+	public void nothing2()
+	{
+		System.out.println("Nothing");
+	}
 }
