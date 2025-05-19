@@ -16,6 +16,8 @@ public class JavaBrushup {
 		System.out.println(b);
 		System.out.println(ascii);
 		System.out.println("My name is "+name);
+		System.out.println("Modified code1");
+		System.out.println("Modified code2");
 
 	}
 
